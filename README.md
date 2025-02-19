@@ -1,1 +1,6 @@
 # DiscordTranslator
+
+DISCORD_TOKEN=your_discord_token
+WEBHOOK_URL=your_webhook_url
+DEEPL_API_KEY=your_deepl_api_key
+TARGET_CHANNEL_ID=1234567890
